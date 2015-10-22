@@ -1,4 +1,4 @@
-Matcaffe vs. Pycaffe
+# Matcaffe vs. Pycaffe
 #####################
 This project is to show a case whether Matcaffe and Pycaffe would give the same prediction if we provide a same input. In short, my conclusion is that Matcaffe and Pycaffe would different predictions and different confidences.
 
